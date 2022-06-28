@@ -5,7 +5,8 @@ I currently have three 3D printers running on Klipper firmware.
 
 The Klipper firmware is special because it uses a raspberry pi to act as a processor for some of the 
 computations a 3D printer has to make, thus lightening the load on the printer's actual motherboard.  
-In turn you see much better quality and faster print speeds. 
+In turn you see much better quality and faster print speeds. There is a fork of the klipper repository
+in my repositories, and I will also upload a copy of the current version as of 6/28/2022 here.
 
 These are my pritners and the modifications i've done to them.
 
