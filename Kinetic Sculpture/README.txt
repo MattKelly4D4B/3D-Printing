@@ -1,0 +1,1 @@
+kinetic sculpture 3D printed by pkccpkcc on Thingiverse: https://www.thingiverse.com/thing:4768206
